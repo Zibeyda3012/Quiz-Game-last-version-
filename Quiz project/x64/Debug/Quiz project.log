@@ -1,0 +1,4 @@
+﻿  Quiz project.cpp
+C:\Users\Zibeyde\Desktop\Quiz Game\Quiz project\AllFunctions.h(160,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zibeyde\Desktop\Quiz Game\Quiz project\AllFunctions.h(370,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Quiz project.vcxproj -> C:\Users\Zibeyde\Desktop\Quiz Game\x64\Debug\Quiz project.exe
